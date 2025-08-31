@@ -1,4 +1,4 @@
-class SortColors {
+class SortColors { //13% 2ms
     public static void sortColors(int[] nums) {
         boolean swapped;
         for(int i=0; i<nums.length;i++){
