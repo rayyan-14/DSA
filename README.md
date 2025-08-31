@@ -20,5 +20,5 @@ This is primarily a personal practice repo, but suggestions and improvements are
 
 ## Connect  
 If you want to discuss DSA, Java, or projects:  
-- GitHub: [https://github.com/rayyan-14]  
-- LinkedIn: [https://linkedin.com/in/rayyan-mh]  
+- GitHub: Link([https://github.com/rayyan-14])  
+- LinkedIn: Link([https://linkedin.com/in/rayyan-mh])  
