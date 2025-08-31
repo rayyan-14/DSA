@@ -18,9 +18,8 @@ This is primarily a personal practice repo, but suggestions and improvements are
 
 ---
 
-## Connect  
-If you want to discuss DSA, Java, or projects: 
-Author
+If you want to discuss DSA, Java, or projects:
+## Author
 **Rayyan Hanchanal**  
 [GitHub](https://github.com/rayyan-14) | [LinkedIn](https://linkedin.com/in/rayyan-mh)  
 
