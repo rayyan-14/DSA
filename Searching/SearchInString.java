@@ -1,7 +1,9 @@
-class Solution {
+class SearchInString {
     public static int strStr(String haystack, String needle) {
-      for(int i=0; i<haystack.length();i++){
-        if(haystack.charAt(i)==needle.charAt(i)){
+        int n=haystack.length();
+        int m=needle.length();
+      for(int i=0; i<=n-m;i++){
+        if(haystack.substring(i,i+m).equals(needle)){
             return i;
         }
 
