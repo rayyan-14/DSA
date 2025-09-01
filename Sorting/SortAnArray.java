@@ -4,7 +4,7 @@ class SortanArray {
         return nums;
     }
 
-    private void mergeSort(int[] nums, int left, int right) {
+    public void mergeSort(int[] nums, int left, int right) {
         if (left >= right) return;
 
         int mid = left + (right - left) / 2;
@@ -13,7 +13,7 @@ class SortanArray {
         merge(nums, left, mid, right);
     }
 
-    private void merge(int[] nums, int left, int mid, int right) {
+    public void merge(int[] nums, int left, int mid, int right) {
         int[] temp = new int[right - left + 1];
         int i = left, j = mid + 1, k = 0;
 
