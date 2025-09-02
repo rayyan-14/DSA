@@ -1,4 +1,4 @@
-class SortanArray {    //Q.912
+class SortAnArray {    //Q.912
     public int[] sortArray(int[] nums) {
         mergeSort(nums, 0, nums.length - 1);
         return nums;
