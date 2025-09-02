@@ -1,4 +1,4 @@
-class RichestCustomerWealth {
+class RichestCustomerWealth {      //Q.1672
     public static int maximumWealth(int[][] accounts) {
         int sum=0;
         int max=0;
