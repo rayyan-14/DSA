@@ -1,4 +1,4 @@
-class Permutation {
+class BuildArrayFromPermutation {   // Q.1920
     
     public static int[] buildArray(int[] nums) {
         int ans[]=new int[nums.length];
