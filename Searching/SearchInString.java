@@ -1,4 +1,4 @@
-class SearchInString {
+class SearchInString {     // Q.28
     public static int strStr(String haystack, String needle) {
         int n=haystack.length();
         int m=needle.length();
