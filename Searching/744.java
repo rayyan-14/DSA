@@ -1,7 +1,7 @@
 class 744 {
     public char nextGreatestLetter(char[] letters, char target) {
         int  start=0;
-        int end=letters.length;
+        int end=letters.length-1;
         if(target>=letters[letters.length-1]){
             return letters[0];
         }
