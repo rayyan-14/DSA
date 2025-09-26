@@ -1,4 +1,4 @@
-class 645 {
+class FindErrorNums {
     public int[] findErrorNums(int[] nums) {
         int i=0;
         while(i<nums.length){
