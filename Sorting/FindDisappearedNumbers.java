@@ -1,4 +1,4 @@
-class Solution {
+class FindDisappearedNumbers {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         int i=0;
         while(i<nums.length){
