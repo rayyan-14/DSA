@@ -1,4 +1,4 @@
-class 34 {
+class SearchRange {
     public int[] searchRange(int[] nums, int target) {
         int[] ans={-1,-1};
         ans[0]=findIndices(nums,target,true);
