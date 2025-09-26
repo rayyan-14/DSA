@@ -1,4 +1,4 @@
-class 41 {
+class FirstMissingPositive {
     public int firstMissingPositive(int[] nums) {
         int i=0;
         while(i<nums.length){
