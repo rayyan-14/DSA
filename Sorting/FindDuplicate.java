@@ -1,4 +1,4 @@
-class 287 {
+class FindDuplicate {
     public int findDuplicate(int[] nums) {
         int i=0;
         while(i<nums.length){
