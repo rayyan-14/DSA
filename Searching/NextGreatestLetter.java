@@ -1,4 +1,4 @@
-class 744 {
+class NextGreatestLetter {
     public char nextGreatestLetter(char[] letters, char target) {
         int  start=0;
         int end=letters.length-1;
